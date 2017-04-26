@@ -1,5 +1,4 @@
 # Timer
-Timer App with Authentication 
 
 I made this app for my Event "Inject The Bug" which was part of VYRO2K17.
 
